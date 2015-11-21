@@ -1,8 +1,15 @@
 ---
 layout: post
-title:  "Associated Objects"
-date:   2014-12-31 00:00:00 -0600
-categories: ios associated objects 
+title: "Associated Objects"
+description: Associated Objects
+headline: Use with caution
+modified: 2014-12-31
+category: ios associated objects
+tags: []
+image: 
+  feature: some-image.jpg
+comments: true
+mathjax:
 ---
 
 One main difference between a class and a category in Objective-C is that a class can store data by creating properties and instance variables, whereas a category cannot.  This is only partially true, thanks to associated objects.
