@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi!  I'm Vinny. I'm a full-stack engineer, with a soft spot for iOS development...it's a lot of fun!  
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I like to discover new music, volunteer my dev skills for a not-for-profit org, and love biking.  
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I started this blog as a way to keep pushing myself to learn more as a Software Engineer.  I've also benefited greatly from reading others' blogs and figure I should give back to the community.  
+
+I hope you find the information here useful.  This is still an experiment, so if you find it useful, please be sure to drop me a line!  
+
